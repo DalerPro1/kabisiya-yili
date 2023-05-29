@@ -1,0 +1,9 @@
+ year = int(input("kabitsa yilini kiriting"))
+# if year % 400 == 0:
+#     print('kabitsa yili')
+# elif year % 100 == 0:
+#     print('kabitsa yili emas')
+# elif year % 4 == 0:
+#     print("kabisa yili")
+# else:
+#     print('kabisa yili emas')
